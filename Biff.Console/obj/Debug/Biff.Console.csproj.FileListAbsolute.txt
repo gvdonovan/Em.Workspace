@@ -1,0 +1,15 @@
+C:\Dev\Elemetal Workspace\Biff.Console\bin\Debug\Biff.Console.exe.config
+C:\Dev\Elemetal Workspace\Biff.Console\bin\Debug\Biff.Console.exe
+C:\Dev\Elemetal Workspace\Biff.Console\bin\Debug\Biff.Console.pdb
+C:\Dev\Elemetal Workspace\Biff.Console\bin\Debug\Biff.Model.dll
+C:\Dev\Elemetal Workspace\Biff.Console\bin\Debug\Biff.Services.Contracts.dll
+C:\Dev\Elemetal Workspace\Biff.Console\bin\Debug\Em.Workspace.Services.dll
+C:\Dev\Elemetal Workspace\Biff.Console\bin\Debug\System.Net.Http.Formatting.dll
+C:\Dev\Elemetal Workspace\Biff.Console\bin\Debug\Newtonsoft.Json.dll
+C:\Dev\Elemetal Workspace\Biff.Console\bin\Debug\Biff.Model.pdb
+C:\Dev\Elemetal Workspace\Biff.Console\bin\Debug\Biff.Services.Contracts.pdb
+C:\Dev\Elemetal Workspace\Biff.Console\bin\Debug\Em.Workspace.Services.pdb
+C:\Dev\Elemetal Workspace\Biff.Console\bin\Debug\System.Net.Http.Formatting.xml
+C:\Dev\Elemetal Workspace\Biff.Console\obj\Debug\Biff.Console.csprojResolveAssemblyReference.cache
+C:\Dev\Elemetal Workspace\Biff.Console\obj\Debug\Biff.Console.exe
+C:\Dev\Elemetal Workspace\Biff.Console\obj\Debug\Biff.Console.pdb

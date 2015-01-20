@@ -1,0 +1,115 @@
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\Em.Workspace.Modules.Mail.dll.config
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\Em.Workspace.Modules.Mail.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\Em.Workspace.Modules.Mail.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\Em.Workspace.Infrastructure.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\Microsoft.Practices.Prism.Composition.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\Microsoft.Practices.Prism.Mvvm.Desktop.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\Microsoft.Practices.Prism.Mvvm.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\Microsoft.Practices.Prism.PubSubEvents.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\Microsoft.Practices.Unity.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\System.Windows.Interactivity.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\Em.Workspace.Infrastructure.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\Microsoft.Practices.Prism.Composition.xml
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\Microsoft.Practices.Prism.Interactivity.xml
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\Microsoft.Practices.Prism.Mvvm.xml
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.xml
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.xml
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\Microsoft.Practices.Unity.xml
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\de\System.Windows.Interactivity.resources.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\en\System.Windows.Interactivity.resources.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\es\System.Windows.Interactivity.resources.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\it\System.Windows.Interactivity.resources.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace.Modules.Mail\obj\Debug\Em.Workspace.Modules.Mail.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace.Modules.Mail\obj\Debug\Views\DefaultView.baml
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace.Modules.Mail\obj\Debug\Views\Mail.baml
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace.Modules.Mail\obj\Debug\Views\MailGroup.baml
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace.Modules.Mail\obj\Debug\Views\DefaultView.g.cs
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace.Modules.Mail\obj\Debug\Views\Mail.g.cs
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace.Modules.Mail\obj\Debug\Views\MailGroup.g.cs
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace.Modules.Mail\obj\Debug\Em.Workspace.Modules.Mail_MarkupCompile.cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace.Modules.Mail\obj\Debug\Em.Workspace.Modules.Mail.g.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace.Modules.Mail\obj\Debug\Em.Workspace.Modules.Mail.Properties.Resources.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace.Modules.Mail\obj\Debug\Em.Workspace.Modules.Mail.csproj.GenerateResource.Cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace.Modules.Mail\obj\Debug\Em.Workspace.Modules.Mail.dll.licenses
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace.Modules.Mail\obj\Debug\Em.Workspace.Modules.Mail.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace.Modules.Mail\obj\Debug\Em.Workspace.Modules.Mail.pdb
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\obj\Debug\Em.Workspace.Modules.Mail.csprojResolveAssemblyReference.cache
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\obj\Debug\Views\DefaultView.baml
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\obj\Debug\Views\Spot.baml
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\obj\Debug\Views\DefaultView.g.cs
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\obj\Debug\Views\Spot.g.cs
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\obj\Debug\Em.Workspace.Modules.Mail_MarkupCompile.cache
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\Em.Workspace.Modules.Mail.dll.config
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\Em.Workspace.Modules.Mail.dll
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\Em.Workspace.Modules.Mail.pdb
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\Biff.Model.dll
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\Biff.Services.Contracts.dll
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\Em.Workspace.Infrastructure.dll
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\Em.Workspace.Services.dll
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\Microsoft.Practices.Prism.Composition.dll
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\Microsoft.Practices.Prism.Mvvm.Desktop.dll
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\Microsoft.Practices.Prism.Mvvm.dll
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\Microsoft.Practices.Prism.PubSubEvents.dll
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.dll
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\System.Net.Http.Formatting.dll
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\System.Windows.Interactivity.dll
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\Newtonsoft.Json.dll
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\Biff.Model.pdb
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\Biff.Services.Contracts.pdb
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\Em.Workspace.Infrastructure.pdb
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\Em.Workspace.Services.pdb
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\Microsoft.Practices.Prism.Composition.xml
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\Microsoft.Practices.Prism.Interactivity.xml
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\Microsoft.Practices.Prism.Mvvm.xml
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.xml
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.xml
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\System.Net.Http.Formatting.xml
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\obj\Debug\Views\HomeTab.baml
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\obj\Debug\Views\Mail.baml
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\obj\Debug\Views\MailGroup.baml
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\obj\Debug\Views\HomeTab.g.cs
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\obj\Debug\Views\Mail.g.cs
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\obj\Debug\Views\MailGroup.g.cs
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\obj\Debug\Em.Workspace.Modules.Mail.g.resources
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\obj\Debug\Em.Workspace.Modules.Mail.Properties.Resources.resources
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\obj\Debug\Em.Workspace.Modules.Mail.csproj.GenerateResource.Cache
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\obj\Debug\Em.Workspace.Modules.Mail.dll.licenses
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\obj\Debug\Em.Workspace.Modules.Mail.dll
+C:\Dev\Elemetal Workspace\Em.Workspace.Modules.Mail\obj\Debug\Em.Workspace.Modules.Mail.pdb

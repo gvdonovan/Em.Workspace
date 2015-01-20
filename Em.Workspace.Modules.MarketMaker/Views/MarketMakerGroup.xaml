@@ -1,0 +1,19 @@
+﻿<igOutlookBar:OutlookBarGroup
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"         
+    xmlns:ig="http://schemas.infragistics.com/xaml" 
+    xmlns:igOutlookBar="http://infragistics.com/OutlookBar"
+    xmlns:prism="clr-namespace:Microsoft.Practices.Prism.Mvvm;assembly=Microsoft.Practices.Prism.Mvvm.Desktop"    
+    xmlns:inf="clr-namespace:Em.Workspace.Infrastructure;assembly=Em.Workspace.Infrastructure"    
+    xmlns:infPrism="clr-namespace:Em.Workspace.Infrastructure.Prism;assembly=Em.Workspace.Infrastructure"        
+    x:Class="Em.Workspace.Modules.MarketMaker.Views.MarketMakerGroup"
+    Header="Market Maker">
+
+    <ig:XamDataTree x:Name="treeView" Background="Transparent" ItemsSource="{Binding Items}" infPrism:XamDataTreeItemSelected.Command="{x:Static Member=inf:Commands.NavigateCommand}">
+        <ig:XamDataTree.GlobalNodeLayouts>
+            <ig:NodeLayout Key="ItemsLayout" TargetTypeName="NavigationItem" DisplayMemberPath="Caption" IsExpandedMemberPath="IsExpanded" />
+        </ig:XamDataTree.GlobalNodeLayouts>
+    </ig:XamDataTree>
+
+</igOutlookBar:OutlookBarGroup>

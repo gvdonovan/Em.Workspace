@@ -1,0 +1,34 @@
+﻿<UserControl x:Class="Em.Workspace.Modules.Mail.Views.Spot"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="60" d:DesignWidth="120">
+    <Grid>
+        <Rectangle Fill="Green"></Rectangle>        
+        <Grid HorizontalAlignment="Stretch">
+            
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            
+            <TextBlock Text="Au" Foreground="White" FontSize="20" Padding="4,0,0,0" />
+            <TextBlock Grid.Column="1" Text="$1240.00" Foreground="White" FontSize="16" HorizontalAlignment="Right" VerticalAlignment="Center" Padding="0,0,4,0"/>
+
+            <TextBlock Grid.Row="1" Text="Low" Foreground="White" FontSize="12"  Padding="4,0,0,0" />
+            <TextBlock Grid.Row="1" Grid.Column="1" Text="$1220.12" Foreground="White" FontSize="12"  HorizontalAlignment="Right" Padding="0,0,4,0"/>
+
+            <TextBlock Grid.Row="2" Text="High" Foreground="White" FontSize="12"  Padding="4,0,0,0" />
+            <TextBlock Grid.Row="2" Grid.Column="1" Text="$1260.53" Foreground="White" FontSize="12"  HorizontalAlignment="Right" Padding="0,0,4,0"/>
+        </Grid>
+        
+    </Grid>
+</UserControl>

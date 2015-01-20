@@ -1,0 +1,4 @@
+C:\Dev\Elemetal Workspace\Biff.Model\bin\Debug\Biff.Model.dll
+C:\Dev\Elemetal Workspace\Biff.Model\bin\Debug\Biff.Model.pdb
+C:\Dev\Elemetal Workspace\Biff.Model\obj\Debug\Biff.Model.dll
+C:\Dev\Elemetal Workspace\Biff.Model\obj\Debug\Biff.Model.pdb

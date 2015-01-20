@@ -1,0 +1,7 @@
+C:\Dev\Elemetal Workspace\Biff.Services.Contracts\bin\Debug\Biff.Services.Contracts.dll
+C:\Dev\Elemetal Workspace\Biff.Services.Contracts\bin\Debug\Biff.Services.Contracts.pdb
+C:\Dev\Elemetal Workspace\Biff.Services.Contracts\bin\Debug\Biff.Model.dll
+C:\Dev\Elemetal Workspace\Biff.Services.Contracts\bin\Debug\Biff.Model.pdb
+C:\Dev\Elemetal Workspace\Biff.Services.Contracts\obj\Debug\Biff.Services.Contracts.csprojResolveAssemblyReference.cache
+C:\Dev\Elemetal Workspace\Biff.Services.Contracts\obj\Debug\Biff.Services.Contracts.dll
+C:\Dev\Elemetal Workspace\Biff.Services.Contracts\obj\Debug\Biff.Services.Contracts.pdb

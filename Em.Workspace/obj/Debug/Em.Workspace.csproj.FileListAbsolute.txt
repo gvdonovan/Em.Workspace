@@ -1,0 +1,126 @@
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace\bin\Debug\Em.Workspace.exe.config
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace\bin\Debug\Em.Workspace.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace\bin\Debug\Em.Workspace.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace\bin\Debug\Em.Workspace.Infrastructure.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace\bin\Debug\Em.Workspace.Modules.Mail.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace\bin\Debug\Microsoft.Practices.Prism.Composition.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace\bin\Debug\Microsoft.Practices.Prism.Mvvm.Desktop.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace\bin\Debug\Microsoft.Practices.Prism.Mvvm.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace\bin\Debug\Microsoft.Practices.Prism.PubSubEvents.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace\bin\Debug\Microsoft.Practices.Unity.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace\bin\Debug\System.Windows.Interactivity.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace\bin\Debug\Em.Workspace.Infrastructure.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace\bin\Debug\Em.Workspace.Modules.Mail.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace\bin\Debug\Microsoft.Practices.Prism.Composition.xml
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace\bin\Debug\Microsoft.Practices.Prism.Interactivity.xml
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace\bin\Debug\Microsoft.Practices.Prism.Mvvm.xml
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.xml
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.xml
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace\bin\Debug\Microsoft.Practices.Unity.xml
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace\bin\Debug\de\System.Windows.Interactivity.resources.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace\bin\Debug\en\System.Windows.Interactivity.resources.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace\bin\Debug\es\System.Windows.Interactivity.resources.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace\bin\Debug\it\System.Windows.Interactivity.resources.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace\obj\Debug\Em.Workspace.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace\obj\Debug\Shell.baml
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace\obj\Debug\Shell.g.cs
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace\obj\Debug\App.g.cs
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace\obj\Debug\Em.Workspace_MarkupCompile.cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace\obj\Debug\Em.Workspace.g.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace\obj\Debug\Em.Workspace.Properties.Resources.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace\obj\Debug\Em.Workspace.csproj.GenerateResource.Cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace\obj\Debug\Em.Workspace.exe.licenses
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace\obj\Debug\Em.Workspace.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\Elemetal Workspace\Em.Workspace\obj\Debug\Em.Workspace.pdb
+C:\Dev\Elemetal Workspace\Em.Workspace\obj\Debug\Em.Workspace.csprojResolveAssemblyReference.cache
+C:\Dev\Elemetal Workspace\Em.Workspace\obj\Debug\Biff.baml
+C:\Dev\Elemetal Workspace\Em.Workspace\obj\Debug\Login.baml
+C:\Dev\Elemetal Workspace\Em.Workspace\obj\Debug\Themes\MetroDark.MSControls.Core.Implicit.baml
+C:\Dev\Elemetal Workspace\Em.Workspace\obj\Debug\Themes\Office2013.MSControls.Core.Implicit.baml
+C:\Dev\Elemetal Workspace\Em.Workspace\obj\Debug\Themes\Styles.WPF.baml
+C:\Dev\Elemetal Workspace\Em.Workspace\obj\Debug\Themes\Theme.Colors.baml
+C:\Dev\Elemetal Workspace\Em.Workspace\obj\Debug\App.baml
+C:\Dev\Elemetal Workspace\Em.Workspace\obj\Debug\Biff.g.cs
+C:\Dev\Elemetal Workspace\Em.Workspace\obj\Debug\Login.g.cs
+C:\Dev\Elemetal Workspace\Em.Workspace\obj\Debug\App.g.cs
+C:\Dev\Elemetal Workspace\Em.Workspace\obj\Debug\Em.Workspace_MarkupCompile.cache
+C:\Dev\Elemetal Workspace\Em.Workspace\bin\Debug\Em.Workspace.exe.config
+C:\Dev\Elemetal Workspace\Em.Workspace\bin\Debug\Em.Workspace.exe
+C:\Dev\Elemetal Workspace\Em.Workspace\bin\Debug\Em.Workspace.pdb
+C:\Dev\Elemetal Workspace\Em.Workspace\bin\Debug\Em.Workspace.Infrastructure.dll
+C:\Dev\Elemetal Workspace\Em.Workspace\bin\Debug\Em.Workspace.Modules.Mail.dll
+C:\Dev\Elemetal Workspace\Em.Workspace\bin\Debug\Em.Workspace.Modules.MarketMaker.dll
+C:\Dev\Elemetal Workspace\Em.Workspace\bin\Debug\Microsoft.Practices.Prism.Composition.dll
+C:\Dev\Elemetal Workspace\Em.Workspace\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+C:\Dev\Elemetal Workspace\Em.Workspace\bin\Debug\Microsoft.Practices.Prism.Mvvm.Desktop.dll
+C:\Dev\Elemetal Workspace\Em.Workspace\bin\Debug\Microsoft.Practices.Prism.Mvvm.dll
+C:\Dev\Elemetal Workspace\Em.Workspace\bin\Debug\Microsoft.Practices.Prism.PubSubEvents.dll
+C:\Dev\Elemetal Workspace\Em.Workspace\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.dll
+C:\Dev\Elemetal Workspace\Em.Workspace\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+C:\Dev\Elemetal Workspace\Em.Workspace\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Dev\Elemetal Workspace\Em.Workspace\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Dev\Elemetal Workspace\Em.Workspace\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Dev\Elemetal Workspace\Em.Workspace\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Dev\Elemetal Workspace\Em.Workspace\bin\Debug\Biff.Services.Contracts.dll
+C:\Dev\Elemetal Workspace\Em.Workspace\bin\Debug\Biff.Model.dll
+C:\Dev\Elemetal Workspace\Em.Workspace\bin\Debug\Em.Workspace.Services.dll
+C:\Dev\Elemetal Workspace\Em.Workspace\bin\Debug\System.Windows.Interactivity.dll
+C:\Dev\Elemetal Workspace\Em.Workspace\bin\Debug\System.Net.Http.Formatting.dll
+C:\Dev\Elemetal Workspace\Em.Workspace\bin\Debug\Newtonsoft.Json.dll
+C:\Dev\Elemetal Workspace\Em.Workspace\bin\Debug\Em.Workspace.Infrastructure.pdb
+C:\Dev\Elemetal Workspace\Em.Workspace\bin\Debug\Em.Workspace.Modules.Mail.pdb
+C:\Dev\Elemetal Workspace\Em.Workspace\bin\Debug\Em.Workspace.Modules.MarketMaker.pdb
+C:\Dev\Elemetal Workspace\Em.Workspace\bin\Debug\Microsoft.Practices.Prism.Composition.xml
+C:\Dev\Elemetal Workspace\Em.Workspace\bin\Debug\Microsoft.Practices.Prism.Interactivity.xml
+C:\Dev\Elemetal Workspace\Em.Workspace\bin\Debug\Microsoft.Practices.Prism.Mvvm.xml
+C:\Dev\Elemetal Workspace\Em.Workspace\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.xml
+C:\Dev\Elemetal Workspace\Em.Workspace\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.xml
+C:\Dev\Elemetal Workspace\Em.Workspace\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Dev\Elemetal Workspace\Em.Workspace\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Dev\Elemetal Workspace\Em.Workspace\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Dev\Elemetal Workspace\Em.Workspace\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Dev\Elemetal Workspace\Em.Workspace\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Dev\Elemetal Workspace\Em.Workspace\bin\Debug\Biff.Services.Contracts.pdb
+C:\Dev\Elemetal Workspace\Em.Workspace\bin\Debug\Biff.Model.pdb
+C:\Dev\Elemetal Workspace\Em.Workspace\bin\Debug\Em.Workspace.Services.pdb
+C:\Dev\Elemetal Workspace\Em.Workspace\bin\Debug\System.Net.Http.Formatting.xml
+C:\Dev\Elemetal Workspace\Em.Workspace\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Dev\Elemetal Workspace\Em.Workspace\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Dev\Elemetal Workspace\Em.Workspace\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Dev\Elemetal Workspace\Em.Workspace\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Dev\Elemetal Workspace\Em.Workspace\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Dev\Elemetal Workspace\Em.Workspace\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Dev\Elemetal Workspace\Em.Workspace\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Dev\Elemetal Workspace\Em.Workspace\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Dev\Elemetal Workspace\Em.Workspace\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Dev\Elemetal Workspace\Em.Workspace\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Dev\Elemetal Workspace\Em.Workspace\obj\Debug\Themes\MetroDark.WPF.baml
+C:\Dev\Elemetal Workspace\Em.Workspace\obj\Debug\Themes\MetroDark.xamDataTree.baml
+C:\Dev\Elemetal Workspace\Em.Workspace\obj\Debug\Themes\Office2013.xamDataTree.baml
+C:\Dev\Elemetal Workspace\Em.Workspace\obj\Debug\Themes\Styles.Shared.baml
+C:\Dev\Elemetal Workspace\Em.Workspace\obj\Debug\Shell.g.cs
+C:\Dev\Elemetal Workspace\Em.Workspace\obj\Debug\Em.Workspace_MarkupCompile.lref
+C:\Dev\Elemetal Workspace\Em.Workspace\obj\Debug\Shell.baml
+C:\Dev\Elemetal Workspace\Em.Workspace\obj\Debug\Em.Workspace.g.resources
+C:\Dev\Elemetal Workspace\Em.Workspace\obj\Debug\Em.Workspace.Properties.Resources.resources
+C:\Dev\Elemetal Workspace\Em.Workspace\obj\Debug\Em.Workspace.Resources.ResourceStrings.resources
+C:\Dev\Elemetal Workspace\Em.Workspace\obj\Debug\Em.Workspace.csproj.GenerateResource.Cache
+C:\Dev\Elemetal Workspace\Em.Workspace\obj\Debug\Em.Workspace.exe.licenses
+C:\Dev\Elemetal Workspace\Em.Workspace\obj\Debug\Em.Workspace.exe
+C:\Dev\Elemetal Workspace\Em.Workspace\obj\Debug\Em.Workspace.pdb
